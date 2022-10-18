@@ -87,3 +87,4 @@ GPL compatible	No[4]
 Copyleft	No[4]
 Linking from code with a different licence	Yes
 The original BSD license contained a clause not found in later licenses, known as the "advertising clause". This clause eventually became controversial, as it required authors of all works deriving from a BSD-licensed work to include an acknowledgment of the original source in all advertising material. This was clause number 3 in the original license text:[6]
+hello
